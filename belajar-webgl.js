@@ -33,7 +33,6 @@ function main() {
     gl.clear(gl.COLOR_BUFFER_BIT);
 
     gl.drawArrays(gl.POINTS, 0, 1);
-    // gl.drawElements(gl.POINTS, 8, gl.UNSIGNED_BYTE, 0);
 
 
 }
